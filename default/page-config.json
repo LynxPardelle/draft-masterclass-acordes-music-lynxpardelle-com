@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-acordes.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Acordes: tríadas, séptimas y extensiones | Lynx Pardelle",
+    "description": "Aprende qué notas componen una tríada y escucha cómo cambia el acorde cuando le añades una séptima o una extensión. Usa la comparación para decidir qué color armónico necesita tu música.",
+    "canonical": "https://masterclass-acordes.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-teoria.webp"
+    }
+  }
+}

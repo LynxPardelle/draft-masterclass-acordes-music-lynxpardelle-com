@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Acordes: tríadas, séptimas y extensiones | Lynx Pardelle",
-    "description": "Aprende qué notas componen una tríada y escucha cómo cambia el acorde cuando le añades una séptima o una extensión. Usa la comparación para decidir qué color armónico necesita tu música.",
+    "title": "Masterclass de acordes, tríadas y extensiones | Lynx Pardelle",
+    "description": "Construye tríadas, acordes con séptima y extensiones. Escucha cómo cambia el color armónico y practica su uso en una progresión.",
     "canonical": "https://masterclass-acordes.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-acordes-r2-1575f5d16aea263e.webp",
+      "title": "Masterclass de acordes, tríadas y extensiones | Lynx Pardelle",
+      "description": "Construye tríadas, acordes con séptima y extensiones. Escucha cómo cambia el color armónico y practica su uso en una progresión.",
+      "url": "https://masterclass-acordes.music.lynxpardelle.com/",
+      "imageAlt": "Una mano toca un acorde en un piano de cola."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de acordes, tríadas y extensiones | Lynx Pardelle",
+      "description": "Construye tríadas, acordes con séptima y extensiones. Escucha cómo cambia el color armónico y practica su uso en una progresión.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-acordes-r2-1575f5d16aea263e.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-acordes.music.lynxpardelle.com/#webpage",
+        "name": "Acordes: tríadas, séptimas y extensiones",
+        "description": "Construye tríadas, acordes con séptima y extensiones. Escucha cómo cambia el color armónico y practica su uso en una progresión.",
+        "url": "https://masterclass-acordes.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-acordes.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-acordes.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Acordes: tríadas, séptimas y extensiones",
+        "description": "Construye tríadas, acordes con séptima y extensiones. Escucha cómo cambia el color armónico y practica su uso en una progresión.",
+        "url": "https://masterclass-acordes.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-acordes-r2-1575f5d16aea263e.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-acordes.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
